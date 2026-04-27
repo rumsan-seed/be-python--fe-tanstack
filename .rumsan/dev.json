@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "id": "shcslb0n",
+      "name": null,
+      "command": "uv run prod",
+      "port": null,
+      "subdomain": null
+    }
+  ]
+}
